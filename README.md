@@ -21,7 +21,7 @@ December 10th, 2018
 * An incident can have many participants or IP addresses and a participant or IP address can belong to many incidents. The participants involved in an incident will have a first and last name, a job title, email address and a reason for their association to the incident. If an IP address is given, it will have the specific IP address and the reason for its association the the incident. Both participants and IP addresses will have the incident number they are linked to.
 
 ## Sample Data in our Database
-Responders are able to insert, update, and delete each component of an incident directly through the database. On the web interface, however, responders may only add and query incidents.
+Responders are able to insert, update, and delete each component of an incident directly through the database. On the web interface, however, responders may only add and query incidents. Refer to the folder (/img) for tables with stored data and the folder (/sql) for creation, insertion, and update of tables.
 
 ## Our Web Interface:
 
